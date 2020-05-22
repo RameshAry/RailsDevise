@@ -1,5 +1,5 @@
 class ApplicationController < ActionController::Base
   def application
-    render html: "Bikash Kharal"
+    render html: "Ramesh Aryal"
   end
 end
